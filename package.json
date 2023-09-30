@@ -1,9 +1,8 @@
 {
   "name": "brson.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "build/index.js",
-  "types": "lib.d.ts",
   "repository": "https://github.com/rassi0429/brson.js",
   "scripts": {
     "prepare": "tsc",
