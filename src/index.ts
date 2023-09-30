@@ -1,4 +1,4 @@
-import BSON from 'bson';
+import BSON from 'bson-fork';
 import zlib from 'zlib';
 
 export function Compress(json: string) {
