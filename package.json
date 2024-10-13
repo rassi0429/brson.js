@@ -1,6 +1,6 @@
 {
   "name": "brson.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "build/index.js",
   "repository": "https://github.com/rassi0429/brson.js",
@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bson-fork": "^6.1.0"
+    "bson-fork": "^6.1.1"
   },
   "devDependencies": {
     "typescript": "^5.2.2",
